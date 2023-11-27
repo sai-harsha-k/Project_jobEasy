@@ -1,9 +1,10 @@
 # Project_jobEasy
-Prerequisites
+Prerequisites:
+
 Python installed on your system.
-Flask, a Python web framework. Install it using pip install flask.
-NLTK for natural language processing. Install it using pip install nltk.
-Joblib for loading the model. Install it using pip install joblib.
+Flask, a Python web framework. Install it using - pip install flask.
+NLTK for natural language processing. Install it using - pip install nltk.
+Joblib for loading the model. Install it using -  pip install joblib.
 Steps to Run the Website
 Clone the Repository: First, clone the repository to your local machine using Git:
 
